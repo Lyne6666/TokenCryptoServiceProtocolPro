@@ -36,7 +36,6 @@ We welcome contributions! Here's how to get started:
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-Co-authored-by: Hajigur <66867581+hajigur69@users.noreply.github.com>
 
 ## License
 
